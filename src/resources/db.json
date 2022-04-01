@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "date": "testDate 1",
+    "category": "testCategory 1",
+    "description": "Testing DB functionality",
+    "start": "start 1",
+    "stop": "stop 1"
+  },
+  {
+    "id": 2,
+    "date": "testDate 2",
+    "category": "testCategory 2",
+    "description": "Testing DB functionality",
+    "start": "start 2",
+    "stop": "stop 2"
+  }
+]
